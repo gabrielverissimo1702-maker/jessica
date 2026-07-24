@@ -4,7 +4,7 @@ import { SectionHeading } from "./SectionHeading";
 
 const testimonials = [
   {
-    name: "João Ricardo",
+    name: "Anderson Santos",
     text: "Cheguei ao consultório com o couro cabeludo inflamado, com queda capilar aguda, muito avançada. Fui muito bem atendido e acolhido pela Dra. Jéssica Mayara, uma excelente profissional, e excepcional ser humano, muito carismática, séria, e muito cuidadosa! Estou gostando dos resultados após 8 sessões. E muito em breve darei continuidade com mais sessões ao meu tratamento!",
     avatar: "/images/avatar-1.svg",
   },
