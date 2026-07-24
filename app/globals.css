@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  --background: #FAF7F1;
+  --foreground: #3F332C;
+  --font-sans: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(169, 143, 120, 0.16), transparent 30rem),
+    linear-gradient(180deg, #FAF7F1 0%, var(--background) 38%, #F3EADF 100%);
+  color: var(--foreground);
+  font-family: var(--font-sans), Inter, system-ui, sans-serif;
+}
+
+::selection {
+  background: rgba(169, 143, 120, 0.26);
+}
+
+.font-serif-display {
+  font-family: var(--font-serif), "Cormorant Garamond", Georgia, serif;
+}
+
+.container-shell {
+  width: min(1120px, calc(100% - 2rem));
+  margin-inline: auto;
+}
+
+.soft-shadow {
+  box-shadow: 0 24px 70px rgba(118, 95, 79, 0.14);
+}
+
+.gold-gradient {
+  background: linear-gradient(135deg, #DDD0C0, #A98F78);
+}
+
+.hero-fade {
+  background: linear-gradient(180deg, rgba(169, 143, 120, 0) 0%, rgba(250, 247, 241, 0.78) 45%, #FAF7F1 100%);
+}
+
+.monogram-bg::before {
+  content: "JM";
+  position: absolute;
+  inset: auto -1rem 0 auto;
+  z-index: 0;
+  color: rgba(255, 255, 255, 0.08);
+  font-family: var(--font-serif), "Cormorant Garamond", Georgia, serif;
+  font-size: clamp(10rem, 24vw, 23rem);
+  font-weight: 700;
+  line-height: 0.75;
+  pointer-events: none;
+}
+
+.section-monogram::before {
+  content: "JM";
+  position: absolute;
+  right: 3%;
+  top: 2rem;
+  color: rgba(118, 95, 79, 0.06);
+  font-family: var(--font-serif), "Cormorant Garamond", Georgia, serif;
+  font-size: clamp(8rem, 17vw, 18rem);
+  font-weight: 700;
+  pointer-events: none;
+}

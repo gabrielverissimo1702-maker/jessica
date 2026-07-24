@@ -1,0 +1,14 @@
+<svg width="760" height="640" viewBox="0 0 760 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="640" fill="#FAF7F1"/>
+  <rect x="78" y="84" width="520" height="366" rx="34" fill="#EFE3D7"/>
+  <rect x="126" y="130" width="424" height="274" rx="26" fill="#FFFFFF"/>
+  <circle cx="578" cy="378" r="118" fill="#8F7460"/>
+  <circle cx="579" cy="379" r="91" stroke="#CBB7A3" stroke-width="2" opacity=".65"/>
+  <text x="578" y="404" text-anchor="middle" font-family="Georgia, serif" font-size="78" font-weight="700" fill="#FAF7F1">JM</text>
+  <rect x="168" y="183" width="208" height="12" rx="6" fill="#987B64" opacity=".55"/>
+  <rect x="168" y="225" width="314" height="10" rx="5" fill="#DDD0C0"/>
+  <rect x="168" y="257" width="276" height="10" rx="5" fill="#DDD0C0"/>
+  <rect x="168" y="289" width="332" height="10" rx="5" fill="#DDD0C0"/>
+  <path d="M80 510C169 453 251 452 326 510C406 572 493 571 612 492" stroke="#CBB7A3" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+  <text x="139" y="548" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#8F7460" opacity=".16">Dra. Jéssica Mayara</text>
+</svg>

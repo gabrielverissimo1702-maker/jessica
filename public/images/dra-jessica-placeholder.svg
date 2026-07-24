@@ -1,0 +1,17 @@
+<svg width="720" height="900" viewBox="0 0 720 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="900" fill="#DDD0C0"/>
+  <path d="M0 0H720V900H0V0Z" fill="url(#bg)"/>
+  <circle cx="360" cy="245" r="122" fill="#8F7460"/>
+  <path d="M212 780C220 604 280 478 360 478C440 478 500 604 508 780H212Z" fill="#8F7460"/>
+  <path d="M164 868C185 692 259 560 360 560C461 560 535 692 556 868H164Z" fill="#FAF7F1"/>
+  <path d="M210 354C208 226 265 116 362 116C459 116 515 226 510 354C470 330 424 317 360 317C296 317 250 330 210 354Z" fill="#4A2535"/>
+  <path d="M221 573C262 532 307 512 360 512C413 512 458 532 499 573C460 604 414 620 360 620C306 620 260 604 221 573Z" fill="#987B64" opacity=".45"/>
+  <text x="360" y="824" text-anchor="middle" font-family="Georgia, serif" font-size="78" font-weight="700" fill="#8F7460" opacity=".18">JM</text>
+  <defs>
+    <linearGradient id="bg" x1="78" y1="0" x2="642" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8EEE5"/>
+      <stop offset=".48" stop-color="#CBB7A3"/>
+      <stop offset="1" stop-color="#8F7460"/>
+    </linearGradient>
+  </defs>
+</svg>
