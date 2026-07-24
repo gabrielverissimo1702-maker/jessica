@@ -2,13 +2,13 @@ export const siteConfig = {
   name: "Dra. Jéssica Mayara",
   role: "Biomédica Tricologista",
   // Troque estes links quando tiver o telefone e Instagram definitivos.
-  whatsappUrl: "https://wa.me/5561999999999",
+  whatsappUrl: "https://wa.me/5561981166676",
   instagramUrl: "https://instagram.com/dra.jessica_mayara",
   location: "Prédio Connect Towers",
   addressLines: [
     "QS 1, Rua 212, Lotes 19, 21 e 23",
     "Águas Claras, ao lado do Taguatinga Shopping",
-    "Sala 624, sexto andar",
+    "Sala 624, 6° andar",
   ],
   professionalRegistry: "CRBM: 21669",
   // Preencha depois que criar as tags no Google Ads ou Google Tag Manager.

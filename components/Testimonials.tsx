@@ -5,17 +5,17 @@ import { SectionHeading } from "./SectionHeading";
 const testimonials = [
   {
     name: "João Ricardo",
-    text: "Profissional incrível! Me escutou, entendeu o que eu queria e o resultado ficou natural e lindo.",
+    text: "Cheguei ao consultório com o couro cabeludo inflamado, com queda capilar aguda, muito avançada. Fui muito bem atendido e acolhido pela Dra. Jéssica Mayara, uma excelente profissional, e excepcional ser humano, muito carismática, séria, e muito cuidadosa! Estou gostando dos resultados após 8 sessões. E muito em breve darei continuidade com mais sessões ao meu tratamento!",
     avatar: "/images/avatar-1.svg",
   },
   {
-    name: "Pedro Rocha",
-    text: "Ambiente acolhedor, explicações claras e muito cuidado em cada detalhe. Confio de olhos fechados!",
+    name: "Rafael Nunes",
+    text: "Fiz meu tratamento com a Dra Jéssica e o que eu posso dizer é que o resultado foi extremamente satisfatório. A Jéssica é uma excelente profissional, competente, simpática, explica todo o procedimento com clareza, o custo benefício tbm é o melhor em relação a outras clínicas. Para quem tá em dúvida, pode fazer sem medo.",
     avatar: "/images/avatar-2.svg",
   },
   {
-    name: "Lucas Lima",
-    text: "Tratamentos eficazes e seguros. Me sinto cuidada e mais confiante a cada sessão.",
+    name: "Wendel",
+    text: "Desde o início, a doutora Jessica foi muito atenciosa, sempre transparente ao falar como funciona o processo de tratamento. Fiz o acompanhamento por 4 meses e fiquei muito satisfeito com o resultado, com certeza eu recomendo muito. Ela é uma excelente profissional, e tenho certeza que quando forem investir na autoestima de vocês, não vão se arrepender.",
     avatar: "/images/avatar-3.svg",
   },
 ];
